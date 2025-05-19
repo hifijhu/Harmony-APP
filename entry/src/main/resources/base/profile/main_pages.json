@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/main",
+    "pages/bankuai",
+    "pages/home",
+    "pages/message",
+    "pages/sub",
+    "pages/wode",
+    "pages/subbankuai",
+    "pages/ad",
+    "pages/zhuye"
+  ]
+}
